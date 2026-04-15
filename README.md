@@ -1,6 +1,3 @@
-# public-health-data-analysis
-Exploratory analysis of diabetes prevalence and social determinants of health using BRFSS and ACS data.
-
 # Public Health Data Analysis
 
 A two-level exploratory and predictive analysis of diabetes prevalence in the United States, examining both state-level socioeconomic factors and individual-level health indicators.
